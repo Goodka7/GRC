@@ -37,15 +37,16 @@ NovaCore is leveraging the five core functions defined in the NIST CSF:
 
 Each phase of implementation includes assessments, controls, gap identification, and continuous improvement actions.
 
----
-
-> **Note:** This repository is a simulation for educational or demonstration purposes. No real NovaCore data is represented.
-
----
 
 <img alt="Tier Matrix" src="https://github.com/user-attachments/assets/bb7fdf41-de4f-40c1-bc61-4cd336ebfbf2" width="500"><br>
 ![Risk Heatmap](visuals/risk-heatmap.png)
 ![Data Flow Diagram](visuals/data-flow.png)
+
+---
+
+---
+
+> **Note:** This repository is a simulation for educational or demonstration purposes. No real NovaCore data is represented.
 
 ---
 
