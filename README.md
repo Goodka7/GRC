@@ -16,7 +16,7 @@ To assess, align, and mature NovaCore's cybersecurity posture using the NIST CSF
 | [CSF Mapping](https://github.com/Goodka7/GRC/blob/main/Csf_Mapping.md) | Mapping NovaCore's current practices to NIST CSF Core Functions |
 | [Gap Analysis](https://github.com/Goodka7/GRC/blob/main/Gap_Analysis.md) | Maturity Tier Assessment, Gaps, and Risk Impact |
 | [Recommendations](https://github.com/Goodka7/GRC/blob/main/Recommendations.md) | Roadmap, Technical Controls, and Governance Improvements |
-| [Stakeholder Presentation](https://github.com/Goodka7/GRC/blob/main/Final_Report.md) | Supporting diagrams (Tier Matrix, Risk Heatmap, etc.) |
+| [Stakeholder Presentation](https://github.com/Goodka7/GRC/blob/main/Final_Report.md) | A final report that is tailored to Stakeholders |
 
 ## Status
 - [x] Initial Assessment Complete
