@@ -101,8 +101,6 @@ The following cybersecurity controls help fulfill these obligations:
 - Vendor management ensures contractual compliance with third-party standards
 - Regular training and logging support audit readiness
 
-A formal compliance review is recommended to map current and future policies directly to these frameworks. For more detail, see the [Compliance and Legal Considerations](./Compliance_Overview.md) page.
-
 ## Final Thoughts
 
 ![Security Shield](visuals/final-thoughts-visual.png)
