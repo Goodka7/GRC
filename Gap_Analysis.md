@@ -1,6 +1,8 @@
-# Gap Analysis & Tier Assessment – NovaCore Technologies
+# ⚠Gap Analysis & Tier Assessment – NovaCore Technologies
 
 ## Tier Ratings Overview
+
+The following table outlines NovaCore’s current and desired cybersecurity maturity tiers based on the NIST CSF 2.0. This is visually summarized in the Tier Matrix below.
 
 | Core Function | Current Tier | Target Tier | Notes |
 |---------------|--------------|-------------|-------|
@@ -11,9 +13,13 @@
 | RESPOND       | Tier 1 (Partial) | Tier 3 (Consistent) | No drills or structured incident plans. |
 | RECOVER       | Tier 1 (Partial) | Tier 3 (Consistent) | No tested recovery plans or scheduled reviews. |
 
+<div align="center">
+<img alt="Tier Matrix" src="https://github.com/user-attachments/assets/bb7fdf41-de4f-40c1-bc61-4cd336ebfbf2" width="500">
+</div>
+
 ---
 
-## Key Gaps Identified
+## 📉 Key Gaps Identified
 
 ### Governance
 - No defined cybersecurity governance board
@@ -39,6 +45,8 @@
 
 ## Risk-Based Prioritization Matrix
 
+The following heatmap visualizes the severity of NovaCore's top cybersecurity gaps based on likelihood and impact.
+
 | Gap | Risk Impact | Likelihood | Priority |
 |-----|-------------|------------|----------|
 | No DLP in place | High | Medium | High |
@@ -47,7 +55,10 @@
 | Poor 3rd-party oversight | High | Medium | High |
 | Lack of governance structure | Medium | Low | Medium |
 
+<div align="center">
+<img alt="Heat Matrix" src="https://github.com/user-attachments/assets/f1f3f57d-5c75-42c9-8446-3a23029545d9" width="500">
+</div>
 ---
 
-**Next**: See [`Recommendations`](./Recommendations.md) for mitigation plans, roadmap, and maturity improvement steps.
+📌 **Next**: See [`Recommendations`](./Recommendations.md) for mitigation plans, roadmap, and maturity improvement steps.
 
