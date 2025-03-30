@@ -1,4 +1,4 @@
-# 🧾 Assessment & Information Gathering
+# Assessment & Information Gathering
 
 ## Step 1: Initial Assessment
 
