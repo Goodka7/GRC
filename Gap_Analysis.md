@@ -1,4 +1,4 @@
-# ⚠Gap Analysis & Tier Assessment – NovaCore Technologies
+# Gap Analysis & Tier Assessment – NovaCore Technologies
 
 ## Tier Ratings Overview
 
