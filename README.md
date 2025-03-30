@@ -22,8 +22,8 @@ To assess, align, and mature NovaCore's cybersecurity posture using the NIST CSF
 - [x] Initial Assessment Complete
 - [x] Core Function Mapping
 - [x] Maturity & Gap Analysis
-- [ ] Final Report Compilation
-- [ ] Executive Presentation
+- [x] Final Report Compilation
+- [x] Executive Presentation
 
 ## Framework: NIST CSF 2.0
 NovaCore is leveraging the five core functions defined in the NIST CSF:
@@ -43,7 +43,7 @@ Each phase of implementation includes assessments, controls, gap identification,
 
 ---
 
-![Tier Matrix](visuals/tier-matrix.png)
+![Tier Matrix](https://github.com/user-attachments/assets/bb7fdf41-de4f-40c1-bc61-4cd336ebfbf2)
 ![Risk Heatmap](visuals/risk-heatmap.png)
 ![Data Flow Diagram](visuals/data-flow.png)
 
