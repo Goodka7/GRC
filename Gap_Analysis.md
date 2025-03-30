@@ -1,6 +1,6 @@
-# ⚠️ Gap Analysis & Tier Assessment – NovaCore Technologies
+# Gap Analysis & Tier Assessment – NovaCore Technologies
 
-## 🎯 Tier Ratings Overview
+## Tier Ratings Overview
 
 | Core Function | Current Tier | Target Tier | Notes |
 |---------------|--------------|-------------|-------|
@@ -13,7 +13,7 @@
 
 ---
 
-## 📉 Key Gaps Identified
+## Key Gaps Identified
 
 ### Governance
 - No defined cybersecurity governance board
