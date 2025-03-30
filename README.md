@@ -69,3 +69,4 @@ Displays a simplified architectural view of data flow between users, internal ap
 ## Contact
 For questions, reach out to the Security Team at security@novacoretech.fake
 
+**Next**: See [`Assessment`](https://github.com/Goodka7/GRC/blob/main/Assessment.md) for mapping current practices to NIST CSF Core Functions.
