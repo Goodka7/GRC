@@ -54,5 +54,5 @@ We conducted structured interviews with:
 
 ---
 
-📌 **Next**: See [`CSF_Mapping.md`](./CSF_Mapping.md) for mapping current practices to NIST CSF Core Functions.
+**Next**: See [`CSF_Mapping.md`](./CSF_Mapping.md) for mapping current practices to NIST CSF Core Functions.
 
