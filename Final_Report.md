@@ -122,7 +122,7 @@ The following cybersecurity controls help fulfill these obligations:
 
 
 
-By following this plan, NovaCore will become much more secure, able to handle cyber threats better, and build stronger trust with its customers. We’re committed to making cybersecurity a key part of our business success.
+By following this plan, NovaCore will become much more secure, able to handle cyber threats better, keep in compliance and build stronger trust with its customers. We’re committed to making cybersecurity a key part of our business success.
 
 If you have questions or need updates, contact:
 **security@novacoretech.fake**
