@@ -1,5 +1,4 @@
-# NovaCore Technologies
-## Cybersecurity Governance & Risk Framework
+# NovaCore Technologies <br> Cybersecurity Governance & Risk Framework
 
 Welcome to NovaCore Technologies' cybersecurity initiative, structured around the **NIST Cybersecurity Framework (CSF) 2.0**. This repository documents our implementation journey and continuous improvement process.
 
