@@ -50,7 +50,7 @@ Illustrates NovaCore’s current and desired NIST CSF maturity levels across all
 Maps identified cybersecurity risks (e.g., untrained staff, missing DLP) across a visual likelihood/impact grid for prioritization.
 
 <div align="center">
-<img alt="Data Flowmap" src="https://github.com/user-attachments/assets/171cb0b4-3e79-455b-a509-77ca04468c8e" width="500">
+<img alt="Heat Matrix" src="https://github.com/user-attachments/assets/0b9a01b8-ffa1-4dc3-87b6-c2f6b5b2e9eb" width="500">
 </div>
 
 ### Data Flow Diagram – System Overview
