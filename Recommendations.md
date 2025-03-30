@@ -36,6 +36,64 @@ The diagram below outlines NovaCore’s cloud-based data environment, showing ho
 
 ---
 
+# Compliance and Legal Considerations – NovaCore Technologies
+
+## Overview
+
+Compliance plays a critical role in NovaCore’s cybersecurity planning. While risk management and governance guide internal priorities, regulatory compliance ensures the company adheres to industry expectations and legal obligations.
+
+This page outlines:
+- Relevant compliance requirements
+- How NovaCore’s current and planned controls support them
+- Next steps for embedding compliance in ongoing operations
+
+---
+
+## Relevant Compliance Standards
+
+NovaCore’s services and data handling practices intersect with several major regulatory frameworks:
+
+- **GDPR** – Protection of EU personal data
+- **CCPA/CPRA** – California consumer privacy
+- **SOX** – Financial reporting and internal controls
+- **GLBA** – Data privacy for financial institutions
+- **ISO/IEC 27001** – Security controls framework (used as a benchmark)
+
+These frameworks influence how we manage user data, system security, access control, incident response, and third-party relationships.
+
+---
+
+## Control Mapping to Compliance Themes
+
+| Compliance Theme         | Supporting Controls / Planned Enhancements                     |
+|--------------------------|-----------------------------------------------------------------|
+| Data Privacy             | Data Loss Prevention (DLP), Encryption at Rest and in Transit   |
+| Access Control           | Multi-Factor Authentication (MFA), Role-Based Access Control    |
+| Breach Notification      | IR plan, Legal & PR coordination, Pre-approved templates         |
+| Vendor Risk Management   | Contract clauses, Auditing, Supply chain risk tiering           |
+| Data Retention & Deletion| Data classification & lifecycle policy (planned)               |
+| Employee Awareness       | Ongoing security training, phishing simulations                 |
+
+---
+
+## Recommendations for Compliance Maturity
+
+- Conduct a formal **compliance gap analysis** against GDPR, CCPA, and other key standards
+- Appoint a **Privacy & Compliance Officer** to coordinate legal reviews and audits
+- Integrate compliance into **vendor onboarding and review processes**
+- Maintain **audit logs and retention schedules** in alignment with legal retention laws
+- Schedule **annual compliance reviews** to match regulatory update cycles
+
+---
+
+## Summary
+
+While NovaCore’s NIST CSF roadmap lays a strong foundation, integrating compliance directly into our cybersecurity operations ensures we’re legally sound, customer-respectful, and audit-ready. Compliance should be treated as both a baseline requirement and a driver of customer trust and risk reduction.
+
+
+
+---
+
 ## Roadmap & Action Plan
 
 | Phase | Task | Owner | Due Date | Metric |
