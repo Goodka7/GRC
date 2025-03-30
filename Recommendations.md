@@ -36,9 +36,7 @@ The diagram below outlines NovaCore’s cloud-based data environment, showing ho
 
 ---
 
-# Compliance and Legal Considerations – NovaCore Technologies
-
-## Overview
+## Compliance and Legal Considerations
 
 Compliance plays a critical role in NovaCore’s cybersecurity planning. While risk management and governance guide internal priorities, regulatory compliance ensures the company adheres to industry expectations and legal obligations.
 
