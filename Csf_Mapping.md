@@ -35,7 +35,7 @@ This section maps NovaCore’s current practices against the NIST Cybersecurity 
 | Response Planning | ❌ Fail | IR plan exists but not practiced. No RACI chart. |
 | Analysis & Mitigation | ✅ Pass | SOC performs triage but lacks root cause focus. |
 
-## ♻RECOVER
+## RECOVER
 | Category | Pass/Fail | Notes |
 |----------|-----------|-------|
 | Recovery Planning | ❌ Fail | No Business Continuity or Disaster Recovery test performed. |
