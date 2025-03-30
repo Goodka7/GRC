@@ -54,5 +54,5 @@ We conducted structured interviews with:
 
 ---
 
-**Next**: See [`CSF_Mapping`](https://github.com/Goodka7/GRC/blob/main/Csf_Mapping.md) for mapping current practices to NIST CSF Core Functions.
+**Next**: See [`CSF Mapping`](https://github.com/Goodka7/GRC/blob/main/Csf_Mapping.md) for mapping current practices to NIST CSF Core Functions.
 
