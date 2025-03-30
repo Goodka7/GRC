@@ -120,5 +120,5 @@ The visual below provides a quick summary of key performance indicators NovaCore
 
 ---
 
-**Final Step**: Presentation to executive stakeholders with visuals from the `visuals/` folder to align on next steps and secure funding.
+**Final**: See [`Final Report`](https://github.com/Goodka7/GRC/blob/main/Final_Report.md) for mitigation plans, roadmap, and maturity improvement steps.
 
