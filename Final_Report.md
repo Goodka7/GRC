@@ -18,7 +18,9 @@ We found that while NovaCore is doing well in areas like user account protection
 
 We looked at six main areas of cybersecurity and gave each one a rating from 1 (very early) to 4 (very strong). Here's a visual summary:
 
-![Tier Matrix](visuals/tier-matrix.png)
+<div align="center">
+<img alt="Tier Matrix" src="https://github.com/user-attachments/assets/bb7fdf41-de4f-40c1-bc61-4cd336ebfbf2" width="500">
+</div>
 
 **Quick Notes:**
 - Some areas like governance (how security decisions are made) and recovery (how fast we can bounce back after an incident) are at the lowest level.
@@ -31,7 +33,9 @@ We looked at six main areas of cybersecurity and gave each one a rating from 1 (
 
 We looked at the chances of bad things happening and how much damage they could cause. Then we made this heatmap to show the top risks:
 
-![Risk Heatmap](visuals/risk-heatmap.png)
+<div align="center">
+<img alt="Heat Matrix" src="https://github.com/user-attachments/assets/f1f3f57d-5c75-42c9-8446-3a23029545d9" width="500">
+</div>
 
 **Top Concerns:**
 - Employees aren’t trained enough to spot threats
@@ -45,7 +49,9 @@ We looked at the chances of bad things happening and how much damage they could 
 
 We created a simple diagram to show how data flows through our systems and where we’ve added protection:
 
-![Data Flow Diagram](visuals/data-flow.png)
+<div align="center">
+<img alt="Data Flowmap" src="https://github.com/user-attachments/assets/171cb0b4-3e79-455b-a509-77ca04468c8e" width="500">
+</div>
 
 **What This Shows:**
 - Users log in to our systems using secure sign-in methods (MFA)
@@ -58,7 +64,9 @@ We created a simple diagram to show how data flows through our systems and where
 
 To make sure we're getting better, we'll track the following key numbers:
 
-![Security Metrics Dashboard](visuals/security-metrics-dashboard.png)
+<div align="center">
+<img alt="Security Metrics" src="https://github.com/user-attachments/assets/1f21b131-eeb1-409d-9c0c-03e2e8d941ea" width="500">
+</div>
 
 **Key Numbers to Watch:**
 - How quickly we spot issues (5 hours on average)
@@ -72,7 +80,9 @@ To make sure we're getting better, we'll track the following key numbers:
 
 To support the roadmap, here’s a high-level visual overview of how improvements will be rolled out across people, process, and technology:
 
-![Implementation Roadmap](visuals/implementation-roadmap.png)
+<div align="center">
+<img alt="Implementation Roadmap" src="https://github.com/user-attachments/assets/22f3d35d-64ea-4644-b31e-6aa27383c6ee" width="500">
+</div>
 
 Here’s what we need to do next:
 - Set up a security leadership group
