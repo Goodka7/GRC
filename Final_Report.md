@@ -115,7 +115,12 @@ The following cybersecurity controls help fulfill these obligations:
 
 ## Final Thoughts
 
-![Security Shield](visuals/final-thoughts-visual.png)
+
+<div align="center">
+<img alt="Final Thoughts" src="https://github.com/user-attachments/assets/40926c64-5979-4d69-8476-f58210ded0a8" width="300">
+</div>
+
+
 
 By following this plan, NovaCore will become much more secure, able to handle cyber threats better, and build stronger trust with its customers. We’re committed to making cybersecurity a key part of our business success.
 
