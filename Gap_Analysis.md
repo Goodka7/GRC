@@ -61,5 +61,5 @@ The following heatmap visualizes the severity of NovaCore's top cybersecurity ga
 
 ---
 
-**Next**: See [`Recommendations`](./Recommendations.md) for mitigation plans, roadmap, and maturity improvement steps.
+**Next**: See [`Recommendations`](https://github.com/Goodka7/GRC/blob/main/Recommendations.md) for mitigation plans, roadmap, and maturity improvement steps.
 
