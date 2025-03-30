@@ -58,6 +58,7 @@ The following heatmap visualizes the severity of NovaCore's top cybersecurity ga
 <div align="center">
 <img alt="Heat Matrix" src="https://github.com/user-attachments/assets/f1f3f57d-5c75-42c9-8446-3a23029545d9" width="500">
 </div>
+
 ---
 
 📌 **Next**: See [`Recommendations`](./Recommendations.md) for mitigation plans, roadmap, and maturity improvement steps.
