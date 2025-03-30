@@ -97,7 +97,9 @@ We’ll roll this out in three phases, starting in the next quarter (Q2 2025).
 
 ## Compliance and Legal Considerations
 
-![Compliance Icon](visuals/compliance-icon.png)
+<div align="center">
+<img alt="Compliance Icon" src="https://github.com/user-attachments/assets/e2561d4b-e7d3-47c7-8d20-75432afdb027" width="500">
+</div>
 
 In addition to risk reduction, NovaCore must ensure it meets all applicable legal and regulatory requirements. Many of the improvements outlined in this report also support compliance efforts across major standards:
 
