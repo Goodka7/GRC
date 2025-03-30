@@ -43,4 +43,4 @@ This section maps NovaCore’s current practices against the NIST Cybersecurity 
 
 ---
 
-**Next**: See [`Gap_Analysis`](https://github.com/Goodka7/GRC/blob/main/Gap_Analysis.md) to view tier ratings, maturity levels, and prioritized gaps.
+**Next**: See [`Gap Analysis`](https://github.com/Goodka7/GRC/blob/main/Gap_Analysis.md) to view tier ratings, maturity levels, and prioritized gaps.
