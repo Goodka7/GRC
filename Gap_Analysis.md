@@ -19,7 +19,7 @@ The following table outlines NovaCore’s current and desired cybersecurity matu
 
 ---
 
-## 📉 Key Gaps Identified
+## Key Gaps Identified
 
 ### Governance
 - No defined cybersecurity governance board
