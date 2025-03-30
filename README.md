@@ -43,7 +43,7 @@ Each phase of implementation includes assessments, controls, gap identification,
 
 ---
 
-<img alt="Tier Matrix" src="ttps://github.com/user-attachments/assets/bb7fdf41-de4f-40c1-bc61-4cd336ebfbf2" width="500"><br>
+<img alt="Tier Matrix" src="https://github.com/user-attachments/assets/bb7fdf41-de4f-40c1-bc61-4cd336ebfbf2" width="500"><br>
 ![Risk Heatmap](visuals/risk-heatmap.png)
 ![Data Flow Diagram](visuals/data-flow.png)
 
